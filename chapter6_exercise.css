@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  width: auto;
+  height: 800px;
+}
+
+.back-ground-pic1 {
+  background-image: url(img/chapter6/box1.jpg);
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+.back-ground-pic2 {
+  background-image: url(img/chapter6/box2.jpg);
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+.back-ground-pic3 {
+  background-image: url(img/chapter6/box3.jpg);
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+.back-ground-pic4 {
+  background-image: url(img/chapter6/box4.jpg);
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
